@@ -1,11 +1,11 @@
 Project: VPN Website
 
 Description:
-This project is a modern and user-friendly landing page for a VPN (Virtual Private Network) service. The landing page is designed to promote the benefits of using the VPN service and encourage visitors to sign up. It features an appealing design, key features section with images and descriptions, pricing information, and a call-to-action button for signing up.
+This project is a modern and user-friendly landing page for a VPN (Virtual Private Network) service. The landing page is designed to promote the benefits of using the VPN service and encourage visitors to sign up. It features an appealing design, a key features section with images and descriptions, pricing information, and a call-to-action button for signing up.
 
 Key Features:
 - Secure Browsing: Browse the web securely and anonymously with advanced encryption technology.
-- Access Any Content: Unlock restricted websites and access favorite content from anywhere in the world.
+- Access Any Content: Unlock restricted websites and access favourite content from anywhere in the world.
 - Fast Connection: Experience lightning-fast speeds and seamless streaming without buffering or throttling.
 
 The landing page is built using HTML and CSS, making it responsive and compatible with various devices. It utilizes modern design principles, professional styling, and attention-grabbing elements to create an engaging user experience.
